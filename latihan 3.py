@@ -1,6 +1,5 @@
 print(" Hello ini script python Dipca Anugrah :)")
 a = "*"
-print(type(a))
 print('{0:>10}'.format(a))
 print('{0:>11}'.format(a*3))
 print('{0:>12}'.format(a*5))
